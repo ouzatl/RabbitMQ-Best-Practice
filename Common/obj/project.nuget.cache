@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "x2YcMxYzRmQSBY+7hQEJdPh5XVtstN4Nu6CroCMzZfD4IHV6MXIJwmjGGQU0HtWtiUUyWZQ3R8bIzNWOhsLTRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oguz.atli\\source\\repos\\RabbitMQ.BestPractice\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oguz.atli\\.nuget\\packages\\rabbitmq.client\\6.1.0\\rabbitmq.client.6.1.0.nupkg.sha512",
+    "C:\\Users\\oguz.atli\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\oguz.atli\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

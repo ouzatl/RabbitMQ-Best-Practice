@@ -1,0 +1,9 @@
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\Common\bin\Debug\netcoreapp3.1\Common.deps.json
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\Common\bin\Debug\netcoreapp3.1\Common.dll
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\Common\obj\Debug\netcoreapp3.1\Common.csprojAssemblyReference.cache
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\Common\obj\Debug\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\Common\bin\Debug\netcoreapp3.1\Common.pdb
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\Common\obj\Debug\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\Common\obj\Debug\netcoreapp3.1\Common.dll
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\Common\obj\Debug\netcoreapp3.1\Common.pdb

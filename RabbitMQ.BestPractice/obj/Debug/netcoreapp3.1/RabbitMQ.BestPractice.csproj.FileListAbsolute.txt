@@ -1,0 +1,13 @@
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\RabbitMQ.BestPractice\bin\Debug\netcoreapp3.1\RabbitMQ.BestPractice.exe
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\RabbitMQ.BestPractice\bin\Debug\netcoreapp3.1\RabbitMQ.BestPractice.deps.json
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\RabbitMQ.BestPractice\bin\Debug\netcoreapp3.1\RabbitMQ.BestPractice.runtimeconfig.json
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\RabbitMQ.BestPractice\bin\Debug\netcoreapp3.1\RabbitMQ.BestPractice.runtimeconfig.dev.json
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\RabbitMQ.BestPractice\bin\Debug\netcoreapp3.1\RabbitMQ.BestPractice.dll
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\RabbitMQ.BestPractice\bin\Debug\netcoreapp3.1\RabbitMQ.BestPractice.pdb
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\RabbitMQ.BestPractice\obj\Debug\netcoreapp3.1\RabbitMQ.BestPractice.csprojAssemblyReference.cache
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\RabbitMQ.BestPractice\obj\Debug\netcoreapp3.1\RabbitMQ.BestPractice.csproj.CoreCompileInputs.cache
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\RabbitMQ.BestPractice\obj\Debug\netcoreapp3.1\RabbitMQ.BestPractice.AssemblyInfoInputs.cache
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\RabbitMQ.BestPractice\obj\Debug\netcoreapp3.1\RabbitMQ.BestPractice.AssemblyInfo.cs
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\RabbitMQ.BestPractice\obj\Debug\netcoreapp3.1\RabbitMQ.BestPractice.dll
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\RabbitMQ.BestPractice\obj\Debug\netcoreapp3.1\RabbitMQ.BestPractice.pdb
+C:\Users\oguz.atli\source\repos\RabbitMQ.BestPractice\RabbitMQ.BestPractice\obj\Debug\netcoreapp3.1\RabbitMQ.BestPractice.genruntimeconfig.cache
